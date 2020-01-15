@@ -16,6 +16,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
+//test
 public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.bnSend)
