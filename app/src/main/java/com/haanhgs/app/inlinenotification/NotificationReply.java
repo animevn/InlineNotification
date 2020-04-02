@@ -1,4 +1,4 @@
-package com.haanhgs.app.inlinenotificationtaskstack;
+package com.haanhgs.app.inlinenotification;
 
 import android.app.NotificationManager;
 import android.app.RemoteInput;
@@ -7,8 +7,8 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import static com.haanhgs.app.inlinenotificationtaskstack.MainActivity.NOTIFICATION_ID;
-import static com.haanhgs.app.inlinenotificationtaskstack.MainActivity.RESULT;
+import static com.haanhgs.app.inlinenotification.MainActivity.NOTIFICATION_ID;
+import static com.haanhgs.app.inlinenotification.MainActivity.RESULT;
 
 public class NotificationReply extends AppCompatActivity {
 

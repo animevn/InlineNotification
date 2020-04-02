@@ -1,4 +1,4 @@
-package com.haanhgs.app.inlinenotificationtaskstack;
+package com.haanhgs.app.inlinenotification;
 
 import org.junit.Test;
 

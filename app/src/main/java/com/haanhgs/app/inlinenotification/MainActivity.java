@@ -1,4 +1,4 @@
-package com.haanhgs.app.inlinenotificationtaskstack;
+package com.haanhgs.app.inlinenotification;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

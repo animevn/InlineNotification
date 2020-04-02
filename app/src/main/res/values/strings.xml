@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">InlineNotificationTaskStack</string>
+    <string name="app_name">Inline Notification</string>
     <string name="bnSend">Send Notification</string>
 </resources>
